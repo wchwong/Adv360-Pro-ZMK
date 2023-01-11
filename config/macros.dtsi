@@ -8,7 +8,7 @@ macro_best_regards: macro_best_regards{
 compatible = "zmk,behavior-macro";
 label = "macro_best_regards";
 #binding-cells = <0>;
-bindings = <&kp LS(B)>, <&kp E>, <&kp S>, <&kp T>, <&kp SPACE>, <&kp LS(R)>, <&kp E>, <&kp G>, <&kp A>, <&kp R>, <&kp D>, <&kp S>;
+bindings = <&kp LS(B)>, <&kp E>, <&kp S>, <&kp T>, <&kp SPACE>, <&kp LS(R)>, <&kp E>, <&kp G>, <&kp A>, <&kp R>, <&kp D>, <&kp S>, <&kp COMMA>;
 };
 macro_attaching: macro_attaching{
 compatible = "zmk,behavior-macro";
